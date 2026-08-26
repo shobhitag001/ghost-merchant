@@ -1,0 +1,114 @@
+[
+    {
+        "merchant_id": "M001",
+        "transactions": [
+            {"amount": 450, "hour": 10},
+            {"amount": 520, "hour": 11},
+            {"amount": 480, "hour": 13},
+            {"amount": 600, "hour": 15},
+            {"amount": 550, "hour": 18},
+            {"amount": 490, "hour": 12}
+        ]
+    },
+    {
+        "merchant_id": "M002",
+        "transactions": [
+            {"amount": 700, "hour": 12},
+            {"amount": 850, "hour": 13},
+            {"amount": 650, "hour": 14},
+            {"amount": 900, "hour": 19},
+            {"amount": 750, "hour": 20},
+            {"amount": 800, "hour": 13}
+        ]
+    },
+    {
+        "merchant_id": "M003",
+        "transactions": [
+            {"amount": 3200, "hour": 11},
+            {"amount": 2800, "hour": 14},
+            {"amount": 3500, "hour": 16},
+            {"amount": 2900, "hour": 17},
+            {"amount": 3100, "hour": 13},
+            {"amount": 3300, "hour": 15}
+        ]
+    },
+    {
+        "merchant_id": "M004",
+        "transactions": [
+            {"amount": 4999, "hour": 0},
+            {"amount": 4999, "hour": 1},
+            {"amount": 4999, "hour": 2},
+            {"amount": 4999, "hour": 3},
+            {"amount": 4999, "hour": 1},
+            {"amount": 4999, "hour": 2},
+            {"amount": 4999, "hour": 0},
+            {"amount": 4999, "hour": 3}
+        ]
+    },
+    {
+        "merchant_id": "M005",
+        "transactions": [
+            {"amount": 1000, "hour": 10},
+            {"amount": 1200, "hour": 12},
+            {"amount": 1500, "hour": 14},
+            {"amount": 1100, "hour": 16},
+            {"amount": 1300, "hour": 18},
+            {"amount": 1250, "hour": 11}
+        ]
+    },
+    {
+        "merchant_id": "M006",
+        "transactions": [
+            {"amount": 4999, "hour": 0},
+            {"amount": 4999, "hour": 1},
+            {"amount": 4999, "hour": 2},
+            {"amount": 250, "hour": 3},
+            {"amount": 4999, "hour": 1},
+            {"amount": 4999, "hour": 0}
+        ]
+    },
+    {
+        "merchant_id": "M007",
+        "transactions": [
+            {"amount": 800, "hour": 10},
+            {"amount": 950, "hour": 12},
+            {"amount": 700, "hour": 15},
+            {"amount": 850, "hour": 17},
+            {"amount": 900, "hour": 19},
+            {"amount": 780, "hour": 13}
+        ]
+    },
+    {
+        "merchant_id": "M008",
+        "transactions": [
+            {"amount": 2500, "hour": 23},
+            {"amount": 2500, "hour": 0},
+            {"amount": 2400, "hour": 1},
+            {"amount": 2600, "hour": 2},
+            {"amount": 2500, "hour": 3},
+            {"amount": 2500, "hour": 23}
+        ]
+    },
+    {
+        "merchant_id": "M009",
+        "transactions": [
+            {"amount": 600, "hour": 23},
+            {"amount": 600, "hour": 0},
+            {"amount": 600, "hour": 1},
+            {"amount": 650, "hour": 2},
+            {"amount": 600, "hour": 23},
+            {"amount": 700, "hour": 1}
+        ]
+    },
+    {
+        "merchant_id": "M010",
+        "transactions": [
+            {"amount": 400, "hour": 10},
+            {"amount": 450, "hour": 12},
+            {"amount": 500, "hour": 13},
+            {"amount": 420, "hour": 15},
+            {"amount": 480, "hour": 18},
+            {"amount": 450, "hour": 19}
+        ]
+    }
+]

@@ -1,0 +1,47 @@
+# ============================================================
+# GHOST MERCHANT - GITIGNORE
+# ============================================================
+
+# Python virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables / secrets
+.env
+.env.*
+!.env.example
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Playwright generated files
+test-results/
+playwright-report/
+blob-report/
+
+# Local databases / generated files
+*.db
+*.sqlite
+*.sqlite3

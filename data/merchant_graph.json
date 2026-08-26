@@ -1,0 +1,81 @@
+{
+    "nodes": [
+        {
+            "id": "M001",
+            "type": "merchant",
+            "label": "Urban Threads"
+        },
+        {
+            "id": "M002",
+            "type": "merchant",
+            "label": "Fresh Bowl Kitchen"
+        },
+        {
+            "id": "M004",
+            "type": "merchant",
+            "label": "Urban Deals"
+        },
+        {
+            "id": "M008",
+            "type": "merchant",
+            "label": "QuickTrip Holidays"
+        },
+        {
+            "id": "M009",
+            "type": "merchant",
+            "label": "StyleCart"
+        },
+        {
+            "id": "DEVICE_100",
+            "type": "device",
+            "label": "Device 100"
+        },
+        {
+            "id": "ACCOUNT_500",
+            "type": "payout_account",
+            "label": "Payout Account 500"
+        },
+        {
+            "id": "IP_100",
+            "type": "ip",
+            "label": "IP Address 100"
+        }
+    ],
+    "edges": [
+        {
+            "source": "M004",
+            "target": "DEVICE_100",
+            "relationship": "USES_DEVICE"
+        },
+        {
+            "source": "M009",
+            "target": "DEVICE_100",
+            "relationship": "USES_DEVICE"
+        },
+        {
+            "source": "M004",
+            "target": "ACCOUNT_500",
+            "relationship": "USES_ACCOUNT"
+        },
+        {
+            "source": "M009",
+            "target": "ACCOUNT_500",
+            "relationship": "USES_ACCOUNT"
+        },
+        {
+            "source": "M008",
+            "target": "ACCOUNT_500",
+            "relationship": "USES_ACCOUNT"
+        },
+        {
+            "source": "M004",
+            "target": "IP_100",
+            "relationship": "USES_IP"
+        },
+        {
+            "source": "M008",
+            "target": "IP_100",
+            "relationship": "USES_IP"
+        }
+    ]
+}

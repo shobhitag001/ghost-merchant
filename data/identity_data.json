@@ -1,0 +1,82 @@
+[
+    {
+        "merchant_id": "M001",
+        "business_name": "Urban Threads",
+        "gst_name_match": true,
+        "pan_name_match": true,
+        "business_category_match": true,
+        "identity_verified": true
+    },
+    {
+        "merchant_id": "M002",
+        "business_name": "Fresh Bowl Kitchen",
+        "gst_name_match": true,
+        "pan_name_match": true,
+        "business_category_match": true,
+        "identity_verified": true
+    },
+    {
+        "merchant_id": "M003",
+        "business_name": "TechNest Electronics",
+        "gst_name_match": true,
+        "pan_name_match": true,
+        "business_category_match": true,
+        "identity_verified": true
+    },
+    {
+        "merchant_id": "M004",
+        "business_name": "Urban Deals",
+        "gst_name_match": true,
+        "pan_name_match": false,
+        "business_category_match": false,
+        "identity_verified": false
+    },
+    {
+        "merchant_id": "M005",
+        "business_name": "LearnPro Academy",
+        "gst_name_match": true,
+        "pan_name_match": true,
+        "business_category_match": true,
+        "identity_verified": true
+    },
+    {
+        "merchant_id": "M006",
+        "business_name": "HelpHands Foundation",
+        "gst_name_match": false,
+        "pan_name_match": false,
+        "business_category_match": false,
+        "identity_verified": false
+    },
+    {
+        "merchant_id": "M007",
+        "business_name": "Glow Cosmetics",
+        "gst_name_match": true,
+        "pan_name_match": true,
+        "business_category_match": true,
+        "identity_verified": true
+    },
+    {
+        "merchant_id": "M008",
+        "business_name": "QuickTrip Holidays",
+        "gst_name_match": true,
+        "pan_name_match": true,
+        "business_category_match": false,
+        "identity_verified": false
+    },
+    {
+        "merchant_id": "M009",
+        "business_name": "StyleCart",
+        "gst_name_match": true,
+        "pan_name_match": true,
+        "business_category_match": true,
+        "identity_verified": true
+    },
+    {
+        "merchant_id": "M010",
+        "business_name": "Daily Bites",
+        "gst_name_match": true,
+        "pan_name_match": true,
+        "business_category_match": true,
+        "identity_verified": true
+    }
+]
